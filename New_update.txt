@@ -1,0 +1,84 @@
+Kerbores:
+MIT developed kerbores:
+
+KDC-> key distribution center
+AS -> authentication Server
+TGS -> Ticket Granting Service
+UPN ->User princple Name
+SPN -> Server prinple Name
+
+dslegation of authentication 
+contrained delegation
+protocol transition
+
+Single sign on Authentication:
+current version 5:
+
+TGT -> ticket granding ticket
+
+Kerbores Client
+kerborzed service 
+
+kerbores key disturbution client (KDC)
+it has private key/public key/
+
+kdc-> client->mail server
+
+
+process:
+User
+TGT
+Expires: user principle
+session key created 
+
+clinet -> KDC -> server
+
+
+KDC does everything:
+KRB_AS_ARQ
+
+KDC decrepts  all the keys it has database.
+
+KRB_AS_REP --> TGT and session key from KDC.
+
+Kerbtray -> stores the TGT and session key
+
+KRB_TGS_REQ-> pre authentication data 
+
+
+
+
+
+
+
+Asus Zenfone Max ZC550KL (Black, 16GB) 7,560.00
+
+Samsung On7 Pro (Black) 7,590.00 
+
+
+
+OS config-> 24 hrs...
+
+cron and versio details:
+
+motd remove and add it in OS config check
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
